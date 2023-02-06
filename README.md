@@ -6,6 +6,7 @@ This script allows you to start an ssm session with an AWS EC2 instance, windows
 
  **Prerequisites:**
  - [AWS CLI V2](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+ - [Session Manger Plugin for AWS CLI](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html)
  -   AWS IAM User with access keys + session manager permissions loaded in your  `~/.aws/credentials`  file
  - `sudo` permissions on your machine
 
